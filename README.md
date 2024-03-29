@@ -35,7 +35,16 @@
 <div align="center">
     <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 </div>
-
+</br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ibtissammassa&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="streak graph"  /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtissammassa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="languages graph"  />
+</div>
+</br>
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
 <!--
 **Naoufal-jrh/Naoufal-jrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
