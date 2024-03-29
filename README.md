@@ -35,10 +35,11 @@
 </br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=naoufal-jrh&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="streak graph"  /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naoufal-jrh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&theme=dark" height="160" alt="languages graph"  />
-</div>
-<div align="center">
+  <div align="center">
     <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</div>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naoufal-jrh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&theme=dark" height="160" alt="languages graph"  />
 </div>
 </br>
 <p align="center"><samp>
