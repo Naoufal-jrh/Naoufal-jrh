@@ -1,3 +1,7 @@
+Hi there! 
+I'm Naoufal, constantly exploring and learning about anything that piques my interest. 
+Feel free to join me on this journey of discovery!
+
 ## My current tech stack
 <p>
 <div align="center">
